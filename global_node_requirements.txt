@@ -1,0 +1,3 @@
+/home/ajinkya/.nvm/versions/node/v22.22.1/lib:lib@
+/home/ajinkya/.nvm/versions/node/v22.22.1/lib/node_modules/corepack:corepack@0.34.6
+/home/ajinkya/.nvm/versions/node/v22.22.1/lib/node_modules/npm:npm@10.9.4
